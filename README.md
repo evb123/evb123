@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @evb123
-- 👀 I’m interested in cloud, logistics, & energy
-- 🌱 I’m currently learning machine learning in the cloud & devops
+- 👀 I’m interested in cloud, spark, & energy
+- 🌱 I’m currently learning spark optimization
 - 💞️ I’m looking to collaborate on anything!
 
 <!---
