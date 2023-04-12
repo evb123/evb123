@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @evb123
-- 👀 I’m interested in cloud, spark, & energy
-- 🌱 I’m currently learning spark optimization
+- 👀 I’m interested in cloud, spark, data warehousing, dbt, and more!
+- 🌱 I’m currently learning about Databricks instance pools
 - 💞️ I’m looking to collaborate on anything!
 
 <!---
